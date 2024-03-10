@@ -1,0 +1,600 @@
+Text: 老公成日睇波會唔會影響胎教㗎？
+Predicted label: 感情台
+
+Text: 雖然我唔知胎教呢啲係唔係真係對BB將來有影響，但做咗好過冇呀！
+Predicted label: 學術台
+
+Text: 為左BB好，我呢排成日都聽古典樂，都會盡量保持開朗愉快嘅心情。即使我做好多嘢為BB好，但最近老公日日都喺到睇波，仲要睇到三更半夜，我已經盡量唔去睇，但老公半夜睇波都睇到嘈住我。佢仲會同我講買咗咩波，支援邊隊。BB成日聽到呢啲，其實同胎教係唔係唔好㗎？
+Predicted label: 娛樂台
+
+Text: 世界盃唔俾睇波？！
+Predicted label: 體育台
+
+Text: 你想輸咗個家！？
+Predicted label: 財經台
+
+Text: 其實如果屋企人唔鍾意睇，我都會忍住唔開電視睇，寧願自己上網睇好過，因為的確會影響親子關係。
+Predicted label: 手機台
+
+Text: 本身自己好瘦，有咗BB，唔知對BB會唔會好大影響大B同細B老公點可以教小朋友睇波㗎！兩公婆冇共識真係唔好生B英文胎教係咪真係有用BB好似熱氣便便好臭，飲多啲水會唔會有幫助？
+Predicted label: 創意台
+
+Text: 入到去只要同企係門口嘅姐姐講想睇醫生就會有專人帶你去登記。
+Predicted label: 創意台
+
+Text: 之後佢會copy poassport就比張飛仔同帶左我去量血壓、探熱。
+Predicted label: 時事台
+
+Text: 但象有70-80年壽命有啲耐簡單啲講圖利班人死晒隻象都可能未死噉有咩方法可以快靚正咁拎象牙？
+Predicted label: 創意台
+
+Text: 預訂酒店旅館，可享旅遊邦即時優惠！
+Predicted label: 旅遊台
+
+Text: 咁耐以嚟。
+Predicted label: 感情台
+
+Text: 攪錯呀，個個都係仔樣嚟㗎，地盆佬同紳士都唔係仔咩？
+Predicted label: 感情台
+
+Text: 因為我仍然停留係。
+Predicted label: 感情台
+
+Text: 耀舞長安嘅階段。
+Predicted label: 創意台
+
+Text: 似返個貓樣！
+Predicted label: 創意台
+
+Text: 難度之前似狗？
+Predicted label: 創意台
+
+Text: 為自己進行一個年度反思，評價下自己嘅表現！
+Predicted label: 感情台
+
+Text: 有個目標之後係唔夠架！呢步係要你諗下點樣可以達成呢個目標，為自己設立一啲具體嘅行動！又用翻上面做例子，你要做咩先可以令自己中文、英文作文去到上面嘅水平呢？
+Predicted label: 創意台
+
+Text: 噉樣具體話比自己知要做咩先可以幫你達成目標！最好就搵個地方寫低，再放係當眼處日日提醒自己有咩目標同要點樣達成！
+Predicted label: 感情台
+
+Text: 上面三步看似簡單，其實真係好簡單，係睇你做唔做！今年有心想改變一下自己嘅，係開學前搵一晚lock自己係間房度，拎支筆同白紙，開始試下寫低你今年嘅目標同點樣去達成！話唔定半年之後你都會比自己嚇親呢！
+Predicted label: 創意台
+
+Text: NBA新賽季常規賽繼續進行，夏洛特黃蜂隊(7勝23負)終於止住連敗。烏佈雷得到31分同十個籃板，鮑爾得到23分、五個籃板同12次助攻，佢哋率隊喺第四節守住領先優勢，黃蜂隊喺客場以125-119戰勝薩克拉門託國王隊(16勝12負)。黃蜂隊結束8連敗，國王隊嘅2連勝畀終點。
+Predicted label: 體育台
+
+Text: 黃蜂隊嘅烏佈雷上半場得到17分，海沃德得到12分同五個籃板，理查茲得到12分同7個籃板；國王隊嘅薩博尼斯得到14分、16個籃板同5次助攻，福克斯得到11分，巴恩斯得到10分。
+Predicted label: 體育台
+
+Text: 福克斯又追3分，馬勒東兩罰一中，黃蜂隊以123-119領先。福克斯弧頂三分唔中，馬勒東攞籃板，福克斯繼續犯規戰術。馬勒東兩罰全中，休特三分唔中，國王隊以119-125落敗。
+Predicted label: 體育台
+
+Text: HTML(全名HyperText Markup Language)，又譯超文字標記語言，係目前用喺網頁嘅主流標記語言。HTML元素係網頁嘅基本組成模組。HTML嘅書寫形式一般由封閉嘅標籤構成，而且標籤會寫喺兩個尖括號裡面，譬如<html>。而內容就會寫喺封閉標籤入面。
+Predicted label: 手機台
+
+Text: 呢個文件宣告嘅型別系一個HTML5。如果呢個<！doctype html>宣告無被引用嘅話，大部分瀏覽器會用Quirks mode(俗稱怪異模式)對呢個HTML文件進行渲染[1]。
+Predicted label: 手機台
+
+Text: HTML文件完全係由HTML元素構成嘅。HTML元素最普遍嘅形式一般含有三樣嘢：標籤對、起始標籤、結束標籤；寫喺起始標籤裡面嘅某啲屬性；最後，任何文字以及圖形內容會處於起始標籤同結束標籤之間，又或者呢啲內容會套入其它嘅HTML元素。所謂HTML元素其實就係起始同結束標籤裡面嘅任何內容，同時亦包括起始同結束標籤。留意每個標籤都會封閉喺尖括號裡面。
+Predicted label: 創意台
+
+Text: 細標題：HTML文件嘅細標題一般會定義喺由<h1>到<h6>嘅標籤入面：
+Predicted label: 創意台
+
+Text: 註釋有助於理解標記處嘅含義，但就唔會顯示喺頁面上面。一般情況下佢係畀開發者睇嘅。
+Predicted label: 學術台
+
+Text: 喺HTML裡面嘅標記元素重有另外好幾種型別：
+Predicted label: 手機台
+
+Text: 呢版上次改係2020年12月4號(禮拜五)14：37嘅事。
+Predicted label: 創意台
+
+Text: 馬清楠話，大家有時會聽到人講，行入個單位會覺得周身唔聚財，搵風水術數專家睇過，再移動嚇啲傢俬嘅位置之後，就成個舒服晒，正正就顯示風水係個人對環境嘅感覺。講返今次嘅祭祀典禮，其實農曆六月二十四日係關帝嘅誕辰，亦係香港非物質文化遺產之一，保良局每年依照慣例，喺總部內嘅關帝廳舉行關聖帝君寶誕祭祀典禮，今年由馬清楠代表主祭，佢都話呢個儀式係延續傳統而並非迷信。
+Predicted label: 娛樂台
+
+Text: 陳正欣(左)話最緊要互相尊重，而湯振傑(右)本身係基督徒，所以活動當日冇上香。
+Predicted label: 娛樂台
+
+Text: 鄭錦鐘話，唸佛經同唱聖詩都難佢唔到。
+Predicted label: 娛樂台
+
+Text: 呢篇炮臺山係關於香港地理嘅楔位文章，重未完成嘅。麻煩你幫手補充佢嘅內容。
+Predicted label: 創意台
+
+Text: 呢版上次改係2022年10月6號(禮拜四)03：09嘅事。
+Predicted label: 創意台
+
+Text: 人到左四字頭，車又無，樓又無。可以點算？仲有冇機會？
+Predicted label: 汽車台
+
+Text: 只系想搵到一個同路人行落去！
+Predicted label: 感情台
+
+Text: 依家啲女仔要求好高嘅。
+Predicted label: 感情台
+
+Text: 牛熊証？賭波？
+Predicted label: 體育台
+
+Text: 搵個結過婚、生過仔；而細路成廿歲嘅。
+Predicted label: 感情台
+
+Text: 邊種人係你同路人？
+Predicted label: 感情台
+
+Text: 腳踏實地工作，唔係個個女人都要坐靚車住大屋，最緊要有份正當職業，努力做，慢慢再升職，自然會再高人工。
+Predicted label: 上班台
+
+Text: 嬸嬸冇問題！
+Predicted label: 感情台
+
+Text: 外表如何？月入如何？
+Predicted label: 感情台
+
+Text: 有無人婚姻都唔開心？想去日本溝女如果有樓唔使供，但要同阿媽住，有冇女人願意嫁？已婚但鍾意咗個朋友男女結婚系AA，男人唔使比家用？又幾多女性系唔想結婚或者結左婚後悔咗？
+Predicted label: 感情台
+
+Text: 如何增強姻緣運？
+Predicted label: 感情台
+
+Text: 24歲Kayan9896吳家忻被踩大走樣網民反擊：連登仔愈踩愈紅！
+Predicted label: 時事台
+
+Text: 校花校草10強正式誕生！爭奪每人10萬元獎金多過《聲夢傳奇》！
+Predicted label: 影視台
+
+Text: 試當真《係咁先啦》疑二創經典廣告歌網民：真係好似喎！
+Predicted label: 音樂台
+
+Text: 畫面細膩逼真，令人有猶如身臨其境嘅感覺！其中，小編最愛自然系主題，如海洋主題、寧靜森林、海濱日落，有種令人遠離煩囂嘅感覺！
+Predicted label: 創意台
+
+Text: 香港維多利亞港景都唔錯，可以以俯視角度，多角度欣賞東方之珠之美，非常獨特！
+Predicted label: 體育台
+
+Text: 此外，亦有一系列歐洲各熱門景點場景，比我感覺好似置身威尼斯河畔、義大利海島嘅感覺，止旅遊癮冇難度！
+Predicted label: 旅遊台
+
+Text: 另一款日本鮑魚海膽炒意粉，融滙咗歐陸及亞洲風味，採用日本空運鮮鮑魚和海膽，再加入橄欖油、大蒜和少許紫蘇葉，鮮味十足。
+Predicted label: 飲食台
+
+Text: 唔好同yuu搞亂。
+Predicted label: 娛樂台
+
+Text: YU，拉丁字母串字，指：
+Predicted label: 娛樂台
+
+Text: 呢版上次改係2020年11月2號(禮拜一)13：49嘅事。
+Predicted label: 創意台
+
+Text: 我吞咗啖口水，係噉用力點頭。
+Predicted label: 感情台
+
+Text: 佢挨前鬱咗鬱手指，要我挨埋啲。
+Predicted label: 感情台
+
+Text: 我挨前到耳仔都就嚟貼落佢個嘴到，而家淨係等佢開口。
+Predicted label: 感情台
+
+Text: 我就滿心期待咁等佢開聲，點知原來佢係嚟混吉嘅。
+Predicted label: 感情台
+
+Text: 我想叫佢講多啲，點知佢直接起身過去開門。
+Predicted label: 感情台
+
+Text: 講完，佢就閂埋房門。
+Predicted label: 感情台
+
+Text: 我嚟到啊晴面前，但係專心咁碌緊電話嘅佢完全冇為意。
+Predicted label: 娛樂台
+
+Text: 我望住佢，個心一鑊泡噉。
+Predicted label: 感情台
+
+Text: 佢會係我老婆，定係咩都唔係？
+Predicted label: 感情台
+
+Text: 我唔知，都唔想去諗。
+Predicted label: 感情台
+
+Text: 過咗一陣，佢終於嶽高頭。
+Predicted label: 娛樂台
+
+Text: 第50屆冰島國會選舉響2017年10月28號舉行，呢次選舉係冰島四年入面第三次舉行嘅大選[1]。
+Predicted label: 時事台
+
+Text: 而今次大選嘅焦點集中響信任同穩定[1]。
+Predicted label: 時事台
+
+Text: 冰島總理貝內迪克松喺票站投票嗰時話，執政期間帶領冰島經濟復蘇係確保經濟穩定同增長嘅力量[1]。
+Predicted label: 時事台
+
+Text: 初步點票結果，獨立黨攞到百分次廿六嘅票數，比上屆大選低三個百分點；左翼綠色運動排第二，得票率係百分之十七[1]。
+Predicted label: 時事台
+
+Text: 呢版上次改係2017年10月31號(禮拜二)23：17嘅事。
+Predicted label: 創意台
+
+Text: 路過一棟維修中嘅藝術學院。圍網繡咗啲字，冇咁死板。
+Predicted label: 創意台
+
+Text: 首先見到有無人駕駛巴士。㗎巴士只有八至十個位.可以排隊試搭。
+Predicted label: 汽車台
+
+Text: 博物館大部份陳列都係咁擺嘅。
+Predicted label: 娛樂台
+
+Text: 9月9去咗喺Herrnbaumgarten嘅無聊發明博物館Nonseum。
+Predicted label: 動漫台
+
+Text: 9月8嘅第三場係去睇街頭藝人節Buskers Festival Wien。
+Predicted label: 娛樂台
+
+Text: 暑假後維也納嘅活動復活喇。9月8呢日走三場。
+Predicted label: 體育台
+
+Text: 9月7因公要去Prater遊樂場考察。
+Predicted label: 動漫台
+
+Text: 我雖唔太好南瓜，但都捧咗個回家。
+Predicted label: 體育台
+
+Text: 早早早前，印象未係夏天嘅時候去咗一度嘅天台。
+Predicted label: 旅遊台
+
+Text: 8月26嚟到薩爾茨堡附近嘅Hallein視察。
+Predicted label: 動漫台
+
+Text: 呢本食譜嘅cakes真係幾好味(但記得要減糖)。今次揀咗Peach and orange crumb cake嚟整。
+Predicted label: 飲食台
+
+Text: 8月26早咗，11點已經番返嚟奧地利。巡遊要一點先開始。噉就搵咗間酒店餐廳取取暖。
+Predicted label: 飲食台
+
+Text: 餐廳可能呢日旺日唔夠人手，呢餐食咗差唔多兩個鐘。
+Predicted label: 飲食台
+
+Text: 酒店呢日門外有表演娛賓。
+Predicted label: 影視台
+
+Text: 8月25睇完人哋整花車就過去德國嘅Oberaudorf投宿順便入貨。
+Predicted label: 汽車台
+
+Text: 如果喺google maps睇，就知呢度離Ebbs有幾近。酒店都冇咁貴。
+Predicted label: 手機台
+
+Text: 買咗又要諗點消滅佢.連續食咗幾餐青椒乜乜.其中搵咗個意國素菜食譜嘅Peperoni Farciti。
+Predicted label: 飲食台
+
+Text: 登入會員，購買商品可獲得50 C幣！
+Predicted label: 潮流台
+
+Text: 訊號覆蓋範圍可以延伸至30米(100英尺)！
+Predicted label: 時事台
+
+Text: 套裝版仲配備發射同接收器，可以直接係顯示器控制返你嘅電子裝置！
+Predicted label: 手機台
+
+Text: 5mm厚度隨時帶係身或者放係書包都冇問題！
+Predicted label: 感情台
+
+Text: 連線不同電子裝置都做到零延遲，隨時隨地享受遊戲樂趣！
+Predicted label: 遊戲台
+
+Text: 活動名稱：改版精實月活動開跑。
+Predicted label: 娛樂台
+
+Text: 部署A股新方法！首批認購認沽證登場！
+Predicted label: 時事台
+
+Text: 隔山打牛買A股？用指數期貨更直接！
+Predicted label: 財經台
+
+Text: 市況難捉路善用選股工具提高值博率！
+Predicted label: 財經台
+
+Text: 美股窩輪跟得足？睇實敏感度、引伸波幅？
+Predicted label: 財經台
+
+Text: 高盛教你2022年調整輪證策略！
+Predicted label: 時事台
+
+Text: 宿醉妝究竟係點？
+Predicted label: 感情台
+
+Text: 錯誤示範！
+Predicted label: 感情台
+
+Text: 宿醉妝6大重點：
+Predicted label: 感情台
+
+Text: 10個卡通人物80、90後童年回憶！考你記憶仲記得幾多個？
+Predicted label: 感情台
+
+Text: 施偉賢爵士，CBE，LLD，QC，SC，JP(英文：Sir John Joseph Swaine，1932年4月22號—2012年8月7號)係1993年到1995年間香港立法局主席。之前，立法局主席一直由香港總督做埋，而佢由1991年開始成為立法局首任副主席。施偉賢爵士本身係一位法學教授，後來被委任入立法局成為非官守議員。
+Predicted label: 娛樂台
+
+Text: 卸任立法局主席之後，施偉賢重執教鞭。2003年1月結束大律師業務，轉任事務律師；但係2004年9月又做返大律師。
+Predicted label: 時事台
+
+Text: 2012年8月7號死，終年80歲[1]。
+Predicted label: 感情台
+
+Text: 屬於17類：
+Predicted label: 感情台
+
+Text: 呢版上次改係2022年3月2號(禮拜三)14：18嘅事。
+Predicted label: 創意台
+
+Text: 討論共3個回覆，最新回覆於5年前。
+Predicted label: 音樂台
+
+Text: 點解得兩個步驟？無講點炒帶子，同點調味？
+Predicted label: 創意台
+
+Text: 帶子漏咗講。
+Predicted label: 感情台
+
+Text: 西蘭花嘅tips好有用！謝分享！
+Predicted label: 娛樂台
+
+Text: 今晚食乜餸？分享12款人氣營養家常小菜食譜做法，幫你解決煩惱！
+Predicted label: 飲食台
+
+Text: 今晚煮乜餸？15分鐘超快手，12款人氣營養家常小菜食譜雜錦！
+Predicted label: 飲食台
+
+Text: 活動名稱：搶救美眉比武招親。
+Predicted label: 時事台
+
+Text: A quiet place II值唔值得睇？
+Predicted label: 校園台
+
+Text: 影片必須符合下列其中兩項條件，方合資格為香港電影：
+Predicted label: 影視台
+
+Text: 推薦電影十部：
+Predicted label: 影視台
+
+Text: 最佳影片：
+Predicted label: 影視台
+
+Text: 最佳導演：
+Predicted label: 影視台
+
+Text: 最佳男主角：
+Predicted label: 影視台
+
+Text: 最佳男配角：
+Predicted label: 影視台
+
+Text: 最佳女配角：
+Predicted label: 影視台
+
+Text: 最佳原創劇本：
+Predicted label: 影視台
+
+Text: 最佳改編劇本：
+Predicted label: 影視台
+
+Text: 最佳動畫長片：
+Predicted label: 動漫台
+
+Text: 最佳動畫短片：
+Predicted label: 動漫台
+
+Text: 最佳實境短片：
+Predicted label: 創意台
+
+Text: 最佳攝影：
+Predicted label: 潮流台
+
+Text: 最佳服裝設計：
+Predicted label: 潮流台
+
+Text: 最佳紀錄長片：
+Predicted label: 影視台
+
+Text: 最佳紀錄短片：
+Predicted label: 影視台
+
+Text: 最佳剪輯：
+Predicted label: 創意台
+
+Text: 最佳國際電影：
+Predicted label: 影視台
+
+Text: 最佳妝髮設計：
+Predicted label: 潮流台
+
+Text: 最佳美術設計：
+Predicted label: 創意台
+
+Text: 最佳原創配樂：
+Predicted label: 音樂台
+
+Text: 《王者世家King Richard》“Be Alive”
+Predicted label: 動漫台
+
+Text: 《奇幻魔法屋Encanto》“Dos Oruguitas”
+Predicted label: 動漫台
+
+Text: 《Belfast》“Down To Joy”
+Predicted label: 動漫台
+
+Text: 最佳音效：
+Predicted label: 音樂台
+
+Text: 最佳視覺特效：
+Predicted label: 感情台
+
+Text: 罰息期已過，應否將原有P按轉按至H按？
+Predicted label: 上班台
+
+Text: 現契物業翻按，銀行一定要入屋睇樓？
+Predicted label: 房屋台
+
+Text: 律師樓唔On-list可以點做？
+Predicted label: 學術台
+
+Text: 被公司放冇薪假，按揭做到9成？
+Predicted label: 上班台
+
+Text: 銀行收緊高息戶口成趨勢？
+Predicted label: 財經台
+
+Text: 反觀，王敏奕就以一條簡約有美感嘅吊帶珠珠裙上陣，腰間透視，高貴得嚟又大方。
+Predicted label: 娛樂台
+
+Text: Previous Article前港姐陳苑澄舊年嫁酒行太子爺，原來...
+Predicted label: 娛樂台
+
+Text: 有間啤酒廠。可惜只有團體先可以參觀。
+Predicted label: 飲食台
+
+Text: 呢日呢度有好多細路。
+Predicted label: 感情台
+
+Text: 好似係音樂廳。
+Predicted label: 音樂台
+
+Text: 唔行呢度都唔知呢個市仲有城牆。
+Predicted label: 房屋台
+
+Text: 返返市中心。原來開始咗個兒童賽跑。有幼兒組。我見BB都有參賽。
+Predicted label: 體育台
+
+Text: 攞咗隻免費手為大家打氣。
+Predicted label: 創意台
+
+Text: 小學雞組。
+Predicted label: 創意台
+
+Text: 輪到大一啲嘅小學雞。
+Predicted label: 感情台
+
+Text: 之後去離市中心5km嘅Stift Zwettl修道院。
+Predicted label: 創意台
+
+Text: 哈哈，好似托住個巢噉。
+Predicted label: 創意台
+
+Text: 之前都唔知呢度有個百水噴泉。
+Predicted label: 旅遊台
+
+Text: 攞咗隻免費手為大家打氣...做打手(打氣手)，唔可以打pat pat。
+Predicted label: 創意台
+
+Text: 培養運動細胞由細做起，唔做運動員，身體健康啲都好。
+Predicted label: 感情台
+
+Text: 打pat pat，啪啪聲，好興奮㗎。
+Predicted label: 感情台
+
+Text: 好一個活動。
+Predicted label: 感情台
+
+Text: 免費禮物嚟㗎。
+Predicted label: 感情台
+
+Text: 我估奧地利人都會。
+Predicted label: 體育台
+
+Text: 奧地利啲打氣手多數係呢款。揈佢會啪啪聲。
+Predicted label: 體育台
+
+Text: 跑完可能要送急症。
+Predicted label: 健康台
+
+Text: 我見到有新人行婚禮喎。
+Predicted label: 感情台
+
+Text: 番茄及洋蔥切件。
+Predicted label: 飲食台
+
+Text: 將醃料加入免治瘦豬肉，拌勻至起膠，醃15分鐘。
+Predicted label: 飲食台
+
+Text: 將免治豬肉搓成肉丸。
+Predicted label: 飲食台
+
+Text: 燒熱鑊，加入少許油，加入豬肉丸煎至表面金黃色，盛起備用。
+Predicted label: 創意台
+
+Text: 爆香洋蔥，加入番茄，水及調味料，煮滾。
+Predicted label: 飲食台
+
+Text: 加入肉丸，蓋上鑊蓋，煮大約10分鐘。
+Predicted label: 飲食台
+
+Text: 加入生粉水，煮至汁料濃稠，即成。
+Predicted label: 飲食台
+
+Text: 想問大家一個問題：如果可以好自由咁揀，你會揀同邊啲食物做朋友呢？
+Predicted label: 感情台
+
+Text: 大家心中嘅度假聖地~美國加州最靚沙灘Santa Monica！超想去啊！
+Predicted label: 體育台
+
+Text: 另外，由於擁有一個長長嘅沙灘同埋鄰近荷里活／好萊塢(Hollywood)，所以呢度都吸引咗唔少電影明星，名人，專業人士同滑浪愛好者喺度居住。
+Predicted label: 影視台
+
+Text: 加上長期嘅好天氣，令Santa Monica早於20世紀被發展成渡假及旅遊勝地。
+Predicted label: 時事台
+
+Text: Santa Monica係以前Route 66嘅終點站，當年Route 66灌穿美國中西岸，連線芝加哥，堪薩斯州，奧克拉荷馬州，亞利桑那州同新墨西哥州等。記得Route 66係打卡之地！
+Predicted label: 時事台
+
+Text: 唔好同河南(廣州)搞亂。
+Predicted label: 時事台
+
+Text: 1950年7月，廣州河南地區嘅蒙聖區、洪德區、海幢區合併，成立河南區人民政府[4]。
+Predicted label: 時事台
+
+Text: 1954年6月，接管芳村地區[4]。
+Predicted label: 時事台
+
+Text: 1960年5月，河南區同時叫海珠人民公社；8月，河南區改名海珠區[4]。
+Predicted label: 時事台
+
+Text: 1980年7月，新嘅海珠區人民政府成立[4]。
+Predicted label: 時事台
+
+Text: 1986年6月，赤崗街同新滘區公所劃入海珠區[2]。
+Predicted label: 房屋台
+
+Text: 睇埋：中華人民共和國廣東省鄉級以上政區一覽。
+Predicted label: 時事台
+
+Text: 上星期，幫達仔除咗個大喇叭之後，佢變得非常活躍，走嚟走去，跳上又跳落。
+Predicted label: 娛樂台
+
+Text: 大叔：達仔需要愛呀！畀啲愛心啦！
+Predicted label: 娛樂台
+
+Text: 話時話，我星期五晚半夜都俾臭go抓損我手流血，我尖叫時，佢都大叫。
+Predicted label: 時事台
+
+Text: 噉你由得佢呀？有無打或者鬧佢？
+Predicted label: 感情台
+
+Text: 第二朝我瞓醒先報復，佢日頭瞓得好爽時，我連環細力快打佢屁股大脾位，令佢醒咗仲要起埋身，然後我就走人。
+Predicted label: 時事台
+
+Text: 首先去一間街坊小店，呢度嘅戲棚蠔餅真係必試！香爆蝦米炒腸粉都超足料！
+Predicted label: 飲食台
+
+Text: 蠔餅可以再加胡椒粉、甜醬、魚露、甜醬、辣醬，莞荽！
+Predicted label: 飲食台
+
+Text: 之後就帶大家去食炸雞，去掃街一定要食大雞排！
+Predicted label: 時事台
+
+Text: 首先揀咗五香或者香辣味道，另外8款口味任你揀！分別有海苔、咖哩、甘梅、孜然、胡椒、辣椒、芝士、麻辣。
+Predicted label: 飲食台
+
+Text: 有4款雞排選擇，每款都係唔同嘅炸粉即叫即製！
+Predicted label: 飲食台
+
